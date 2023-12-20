@@ -1,0 +1,270 @@
+{
+    "navbar": {
+      "home": "Home",
+      "services": "Services",
+      "experiences": "Experiences",
+      "professional": "Professional",
+      "academic_project": "Academic Project",
+      "internships": "Internships",
+      "skills": "Skills",
+      "education": "Education",
+      "language": "EN",
+      "fr": "FR"
+    },
+    "home": {
+      "welcome_message": "Hi, Welcome to my personal website",
+      "developer_intro": "Mohamed Aziz Chouchi, Full Stack Developer",
+      "passionate_description": "Passionate about creating seamless user experiences, I'm Aziz Chouchi, a Full Stack developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.",
+      "discover_button": "Discover",
+      "services": "Services",
+      "web_development": "Web Development",
+      "web_dev_description": "Design and development of modern and interactive websites. Proficiency in both back-end and front-end development.",
+      "ux_ui_design": "UX/UI Design",
+      "ux_ui_description": "Designing exceptional user interfaces and optimizing the user experience.",
+      "database_management": "Database Management",
+      "database_description": "Design and optimization of databases to store and retrieve information efficiently.",
+      "devops": "DevOps",
+      "devops_description": "Implementation of DevOps practices to enhance collaboration between development and operations teams, automate processes, and ensure continuous delivery.",
+      "experiences": "Experiences",
+      "last_three_experiences": "My last three experiences",
+      "exp1_title": "IT Technician",
+      "exp1_company": "MEFTAHI Informatique · Feb 2015 - Present · Bellevue, Tunis",
+      "exp1_description": "PC repair, network cabling, sound manipulation, image editing, video editing, inventory management, and annual report creation.",
+      "exp1_skills": "Skills : Maintenance and Repair, IT, Microsoft Office",
+      "exp2_title": "DevOps Developer",
+      "exp2_company": "Practical DevOps Project at ESPRIT · Sep 2023 - Nov 2023",
+      "exp2_description": "Led a practical DevOps project, implementing Jenkins, Docker, Git, Nexus, JUnit, Sonar, Docker Compose, Grafana, Prometheus, etc.",
+      "exp2_skills": "Skills : GitHub, Jenkins, Docker, Git, Nexus, CI/CD, JUnit, DevOps, Teamwork",
+      "exp3_title": "Full Stack Developer",
+      "exp3_company": "Academic Project with Laravel at ESPRIT · Sep 2023 - Nov 2023",
+      "exp3_description": "Design, development, and integration of modules (category, sub-category, and user) using the Laravel framework.",
+      "exp3_skills": "Skills : Full-Stack Development, GitHub, Laravel, Git, JavaScript, MySQL, CSS, PHP, HTML5, Teamwork",
+    
+      "education": "Education",
+      "esprit": "Private Higher School of Engineering and Technologies - ESPRIT",
+      "engineering_degree": "Engineer's degree, Computer Science",
+      "esprit_duration": "Sep 2021 - Jun 2024",
+      "esprit_description": "  I am currently in my fifth year, specializing in Web Development as part of the Twin option at the Private Higher School of Engineering and Technologies - ESPRIT.This program aims to enhance my skills in web development, improve my understanding of programming languages, and provide practical experience in creating dynamic and responsive websites.",
+      "leader":"Leadership Experience: During my fourth year, I had the privilege of serving as a Delegate to the Scientific Council and the Discipline Council. In this role, I actively contributed to the academic and disciplinary aspects of the institution.This experience honed my leadership and interpersonal skills, fostering a deep sense of responsibility and commitment to maintaining a positive and productive academic environment.",
+      "isamm": "Higher Institute of Multimedia Arts of Manouba (ISAMM)",
+      "arts_degree": "Applied Bachelor's degree, Visual Arts",
+      "isamm_duration": "Sep 2016 - Jun 2021",
+      "isamm_description": "Mention: Arts and Mediation",
+      "isamm_description_2": "Specialization: Multimedia Communication",
+      "isamm_description_3": "At the Higher Institute of Multimedia Arts of Manouba (ISAMM), specializing in Multimedia Communication, I gained skills in design, development, 3D, as well as video and audio editing. My education has equipped me with a diverse set of skills, encompassing both creative design and technical development. This includes hands-on experience in 3D modeling and proficiency in video and audio editing, reflecting a comprehensive understanding of multimedia communication.",
+      "high_school": "Pilot High School of Arts El Omrane",
+      "high_school_degree": "Baccalaureate, Computer Science",
+      "high_school_duration": "2010 - 2015",
+      "skills": "Skills",
+      "top_15_skills": "Top 15 Skills",
+      "languages": "Languages",
+      "languages_mastery": "Languages Mastery",
+      "arabic": "Arabic",
+      "french": "French",
+      "english": "English",
+      "hobbies": "Hobbies",
+      "interests": "My interests",
+      "swimming": "Swimming",
+      "reading": "Reading",
+      "music": "Music",
+      "traveling": "Traveling",
+      "coding": "Coding",
+      "movies": "Movies",
+      "empathy": "Empathy",
+      "problem_solving": "Problem Solving",
+      "communication": "Communication",
+      "creativity": "Creativity"
+    },
+    "footer": {
+      "aboutMeTitle": "Aziz Chouchi",
+      "aboutMeText": "Passionate about creating seamless user experiences, I'm Aziz Chouchi, a Full Stack developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.",
+      "quickLinksTitle": "Quick links",
+      "home": "Home",
+      "services": "Services",
+      "professionalExperiences": "Professional Experiences",
+      "academicExperiences": "Academic Experiences",
+      "internship": "Internship",
+      "skills": "Skills",
+      "education": "Education",
+      "contactTitle": "Contact me"
+
+      
+    },
+
+    "services": {
+      "title": "Services",
+      "expertise": "Expertise",
+
+      "fullStackEngineer": {
+        "title": "Full Stack Engineer",
+        "description": "Complete development of websites and web applications. Mastery of Front-end technologies (Angular, React.js) and Back-end technologies (Node.js, Laravel). Use of SQL (MySQL) and NoSQL (MongoDB) databases. Implementation of DevOps and CI/CD concepts."
+      },
+      "devOpsArchitect": {
+        "title": "DevOps Architect",
+        "description": "Design, implementation, and optimization of CI/CD pipelines. Container management with Docker. Use of tools like Jenkins, Git, Nexus. Monitoring and performance analysis with Prometheus and Grafana."
+      },
+      "javascriptWebDeveloper": {
+        "title": "JavaScript Web Developer",
+        "description": "Expertise in Front-end development with JavaScript, HTML5, CSS3. Use of frameworks like Angular, React.js, and Next.js. Back-end development experience with Node.js."
+      },
+      "3DAnimationSpecialist": {
+        "title": "3D and Animation Specialist",
+        "description": "Creation of 3D animations with Autodesk 3ds Max. Design of 3D characters with animation skills. Experience in game development with Unity."
+      },
+      "symfonyLaravelExpert": {
+        "title": "Symfony and Laravel Expert",
+        "description": "Advanced development with PHP frameworks Symfony and Laravel. Construction of robust and scalable applications."
+      },
+      "uxUiDesigner": {
+        "title": "UX/UI Designer",
+        "description": "Design of engaging user experiences with Adobe XD. Creation of user interfaces and graphic elements with Photoshop and Illustrator."
+      },
+      "communityManagerBrandStrategist": {
+        "title": "Community Manager and Brand Strategist",
+        "description": "Animation and management of online communities. Development and implementation of brand strategies."
+      },
+      "multimediaVersatile": {
+        "title": "Multimedia Versatile",
+        "description": "Advanced skills in video editing with Adobe Premiere Pro. Graphic design with Adobe Photoshop and Illustrator."
+      },
+      "sqlDatabaseAnalyst": {
+        "title": "SQL Database Analyst",
+        "description": "Management and analysis of SQL databases. Use of MySQL and MongoDB to store and retrieve data."
+      },
+      "languagesAdaptability": {
+        "title": "Languages and Adaptability",
+        "description": "Use of English in a professional context. Ability to easily adapt to new environments and manage stress."
+      },
+      "title_2": "Skills",
+      "technicalSkills": {
+        "fullStackDevelopment": " Full-Stack Development"
+      },
+      "softSkills": {
+        "empathy": "Empathy",
+        "problemSolving": "Problem Solving",
+        "communication": "Communication",
+        "creativity": "Creativity",
+        "teamwork": "Teamwork",
+        "english": "English",
+        "easilyAdaptable": "Easily Adaptable",
+        "stressManagement": "Stress Management"
+      }
+
+    },
+
+    "experiences": {
+      "title": "Experiences",
+      "professional": "Professional",
+      "technician": {
+        "title": "Computer Technician",
+        "date": "Feb 2015 - Present",
+        "location": "Bellevue, Tunis",
+        "description": "PC repair, network cabling, sound manipulation, image editing, video editing, inventory management, and annual report creation.",
+        "skills": "Skills : Maintenance and repair, IT, Microsoft Office"
+      },
+      "communityManager": {
+        "title": "Community Manager",
+        "date": "Aug 2022 - Jun 2023",
+        "description": "Creation, planning, and management of content on social networks, on-site video recording to promote the academy, and maintenance of a list of members.",
+        "skills": "Skills : Community management, Social networks, Video recording"
+      },
+      "supervisor": {
+        "title": "Supervisor",
+        "date": "Sep 2019 - Oct 2021",
+        "location": "COLLEGE PIERRE MENDES FRANCE",
+        "description": "Ensuring the supervision of children during recess and accompanying students from the playground to the cafeteria.",
+        "skills": "Skills : Supervision, Coordination, Child safety"
+      },
+      "telesalesOperator": {
+        "title": "Telesales Operator - Sales and Purchases of Trucks",
+        "date": "Dec 2017 - Apr 2018",
+        "location": "maChineryTrucks",
+        "description": "Responsible for the purchase and sale of heavy trucks and machinery in an import-export company.",
+        "skills": "Skills : Sales, Purchases, Telesales"
+      }
+    },
+
+    "academicProjects": {
+      "title": "Academic Projects",
+      "academic": "Academic Project",
+      "devOps": {
+        "title": "DevOps Project",
+        "date": "Sept 2023 - Nov 2023",
+        "institution": "Private Higher School of Engineering and Technologies - ESPRIT",
+        "description": "Led a practical DevOps project involving the installation and configuration of tools such as Jenkins, Docker, Git, Nexus, and others, with a complete demonstration of key DevOps concepts.",
+        "skills": "Skills : DevOps, Virtualization, Continuous Integration, Containerization, Version Control"
+      },
+      "fullStackLaravel": {
+        "title": "Full Stack Laravel Developer Project",
+        "date": "Sept 2023 - Nov 2023",
+        "institution": "Private Higher School of Engineering and Technologies - ESPRIT",
+        "description": "Designed, developed, and integrated modules in a Laravel project, with a focus on CRUD operations, handling joins and authentication, demonstrating expertise in Full Stack development.",
+        "skills": "Skills : Laravel, PHP, MySQL, HTML, CSS"
+      },
+      "microservices": {
+        "title": "Microservices Project",
+        "date": "Sept 2023 - Nov 2023",
+        "institution": "Private Higher School of Engineering and Technologies - ESPRIT",
+        "description": "Led a microservices development project using Spring Boot (Java) and Angular, covering various aspects from Frontend design to Docker containerization and robust data management.",
+        "skills": "Skills : Microservices, Spring Boot, Angular, Docker, MongoDB, MySQL"
+      },
+      "fullStackMERN": {
+        "title": "Full Stack MERN Developer Project",
+        "date": "Jan 2023 - May 2023",
+        "institution": "Private Higher School of Engineering and Technologies - ESPRIT",
+        "description": "Designed and implemented an online donation platform allowing individuals and associations to donate to various causes, using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+        "skills": "Skills : Full Stack, MERN, MongoDB, Express.js, React.js, Node.js"
+      },
+      "fullStackAngularSpringBoot": {
+        "title": "Full Stack Angular-SpringBoot Developer Project",
+        "date": "Oct 2022 - Dec 2022",
+        "institution": "Private Higher School of Engineering and Technologies - ESPRIT",
+        "description": "Developed an application with an Angular frontend and a SpringBoot backend. Created web services in the Spring module and consumed them in the Angular part, with the development of associated interfaces.",
+        "skills": "Skills : Full Stack, Angular, SpringBoot, Web Services"
+      },
+      "gamingPlatform": {
+        "title": "Full Stack Developer & Designer Project",
+        "date": "Feb 2022 - May 2022",
+        "institution": "Private Higher School of Engineering and Technologies - ESPRIT",
+        "description": "Group project using SCRUM methodology: creation of a cross-platform gaming space bringing together video games, streaming, tournament organization, ticket sales, and the creation of a strong community among e-sport players.",
+        "skills": "Skills : Full Stack, JavaFx, Symfony, CodeNameOne, SCRUM"
+      }
+    },
+
+    
+  "experiences_internships": {
+    "title": "Experiences",
+    "subtitle": "Internships",
+    "stage1": 
+      {
+        "title": "Full Stack Developer Internship",
+        "company": "General Medical and Industrial Equipment Company GEMI",
+        "date": "Jul 2023 - Sep 2023",
+        "description": "Design, implementation, and hosting of an e-commerce website for the sale of medical equipment.",
+        "skills": "Skills: Symfony, HTML, CSS, Bootstrap, MySQL"
+      },
+      "stage2":{
+        "title": "Full Stack Developer & Designer Internship",
+        "company": "MEFTAHI informatique",
+        "date": "Aug 2022 - Sep 2022",
+        "description": "Design and implementation of a parking reservation website PARSERVE.",
+        "skills": "Skills: Angular, Adobe Illustrator, Adobe XD, Photoshop"
+      },
+      "stage3":{
+        "title": "Designer & Developer",
+        "company": "Regional Establishment of Tunis",
+        "date": "Freelance · Mar 2021 - Jun 2021 · 4 months",
+        "description": "Design and implementation of a dashboard interface to track the evolution of sustainable development indicators: water, gas, and electricity.",
+        "skills": "Skills: Full-Stack Development, PHP, UX/UI Design, MySQL, CSS, HTML5, Bootstrap"
+      },
+      "stage4":{
+        "title": "Full Stack Developer & Designer Internship",
+        "company": "Meftahi informatique",
+        "date": "Feb 2021 - May 2021",
+        "description": "Redesign and implementation of an e-commerce platform for jewelers \"CHICHKHANE\".",
+        "skills": "Skills: PHP, HTML, CSS, Bootstrap, MySQL, Adobe XD, Photoshop"
+      }
+    
+  }
+  }
+  
