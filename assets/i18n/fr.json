@@ -48,14 +48,14 @@
       "leader":"Expérience de leadership : Au cours de ma quatrième année, j'ai eu le privilège de servir en tant que Délégué au Conseil Scientifique et au Conseil de Discipline. Dans ce rôle, j'ai activement contribué aux aspects académiques et disciplinaires de l'institution.Cette expérience a affûté mes compétences en leadership et en relations interpersonnelles, favorisant un profond sens de responsabilité et d'engagement envers le maintien d'un environnement académique positif et productif.",
       "isamm": "Institut Supérieur des Arts Multimédia de la Manouba (ISAMM)",
       "arts_degree": "Licence appliquée, Arts Visuels",
-      "isamm_duration": "Juin 2021",
+      "isamm_duration": "Sep 2016 - Juin 2021",
       "isamm_description": "Mention : Arts et Médiation ",
       "isamm_description_2": "Spécialité : Communication multimédia",
       "isamm_description_3": "A l'Institut Supérieur des Arts Multimédia de la Manouba (ISAMM), spécialisé en Communication Multimédia, j'ai acquis des compétences en conception, développement, 3D, ainsi qu'en montage vidéo et audio. Ma formation m'a doté d'un ensemble de compétences diversifiées, englobant à la fois la conception créative et le développement technique. Cela comprend une expérience pratique de la modélisation 3D et une maîtrise du montage vidéo et audio, reflétant une compréhension globale de la communication multimédia.",
 
       "high_school": "Lycée Pilote des Arts El Omrane",
       "high_school_degree": "Baccalauréat, Informatique",
-      "high_school_duration": "J'ai complété mon Baccalauréat en Informatique au Lycée Pilote des Arts à El Omrane Tunis. Durant cette période, j'ai acquis de solides bases dans les principes et pratiques de l'informatique.",
+      "high_school_duration": "2010 - 2015",
       "skills": "Compétences",
       "top_15_skills": "les 15 principales compétences",
       "languages": "Langues",
@@ -185,8 +185,8 @@
     },
 
     "academicProjects": {
-      "title": "Projets Académiques",
-      "academic": "Projet Académique",
+      "title": "Expériences",
+      "academic": "Projet Académiques",
       "devOps": {
         "title": "Projet DevOps",
         "date": "Sept 2023 - Nov 2023",
