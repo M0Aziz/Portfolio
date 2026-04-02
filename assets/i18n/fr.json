@@ -41,7 +41,7 @@
         "exp3_title": "Ingénieur DevOps",
         "exp3_company": "Projet DevOps – ESPRIT · 2023",
         "exp3_description": "Conception et mise en place d’une chaîne CI/CD complète avec automatisation des builds, tests et déploiements, ainsi que monitoring des performances avec des outils modernes.",
-        "exp3_skills": "Compétences : CI/CD, Jenkins, Docker, Nexus, SonarQube, Prometheus, Grafana"
+        "exp3_skills": "Compétences : CI/CD, Jenkins, Docker, Nexus, SonarQube, Prometheus, Grafana",
       "education": "Éducation",
       "esprit": "Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT",
       "engineering_degree": "Diplôme d'ingénieur, Informatique",
