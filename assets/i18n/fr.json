@@ -33,15 +33,15 @@
         "exp1_description": "Conception et développement d’une plateforme sociale dédiée aux événements. Mise en place d’une architecture microservices scalable (Spring Boot & MERN) et automatisation des déploiements via pipelines DevOps (Docker, Jenkins).",
         "exp1_skills": "Compétences : Microservices, Spring Boot, MERN Stack, Docker, Jenkins, CI/CD",
         
-        "exp2_title": "Développeur Freelance",
-        "exp2_company": "Projets Indépendants · 2021 - 2025",
-        "exp2_description": "Développement de solutions web sur mesure incluant plateformes éducatives interactives, refonte UX/UI d’applications e-commerce et outils métiers dynamiques pour automatiser des processus.",
-        "exp2_skills": "Compétences : Développement Full Stack, UX/UI, JavaScript, PHP, MySQL, Bootstrap, Angular, Symfony, Laravel, React",
-        
-        "exp3_title": "Ingénieur DevOps",
-        "exp3_company": "Projet DevOps – ESPRIT · 2023",
-        "exp3_description": "Conception et mise en place d’une chaîne CI/CD complète avec automatisation des builds, tests et déploiements, ainsi que monitoring des performances avec des outils modernes.",
-        "exp3_skills": "Compétences : CI/CD, Jenkins, Docker, Nexus, SonarQube, Prometheus, Grafana",
+        "exp2_title": "Développeur Full Stack / Freelance & DevOps",
+"exp2_company": "Projets Indépendants · 2021 - 2025",
+"exp2_description": "Développement de solutions web sur mesure incluant plateformes éducatives interactives, refonte UX/UI d’applications e-commerce et outils métiers. Mise en place de pipelines CI/CD et automatisation de déploiement pour différents projets, avec une forte orientation performance et qualité logicielle.",
+"exp2_skills": "Compétences : Développement Full Stack, UX/UI, JavaScript, PHP, MySQL, Bootstrap, Angular, Symfony, Laravel, React, CI/CD, Docker, Jenkins",
+
+"exp3_title": "Développeur Full Stack PHP/Symfony",
+"exp3_company": "Gemi · 08/2024 - 03/2026",
+"exp3_description": "Développement d’un site e-commerce complet en Symfony 5.4 dans un environnement Agile. Conception d’une architecture MVC, développement des fonctionnalités métier (catalogue, panier, commande, back-office), gestion des utilisateurs et optimisation des performances. Mise en place de conteneurisation Docker et d’un pipeline CI/CD avec Jenkins pour automatisation des déploiements.",
+"exp3_skills": "Compétences : Symfony, PHP, Doctrine ORM, Twig, MySQL, JavaScript, Bootstrap, Docker, Jenkins, CI/CD, Agile/Scrum",
       "education": "Éducation",
       "esprit": "Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT",
       "engineering_degree": "Diplôme d'ingénieur, Informatique",
@@ -159,7 +159,7 @@
       "professional": "Professionnel",
       "technician": {
         "title": "Technicien informatique",
-        "date": "Fév 2015 - Présent",
+        "date": "Fév 2015 - Août 2019",
         "location": "Bellevue, Tunis",
         "description": "Réparation des PC, câblage réseau, manipulation du son, retouche d'images, montage vidéo, gestion de l'inventaire et réalisation du bulletin annuel.",
         "skills": "Compétences : Maintenance et réparation, Informatique, Microsoft Office"
@@ -236,14 +236,13 @@
     "experiences_internships": {
       "title": "Expériences",
       "subtitle": "Stages",
-      "stage1": 
-        {
-          "title": "Stage Développeur Full Stack",
-          "company": "La Générale des Équipements Médicaux et Industriels GEMI",
-          "date": "Juil 2023 - Sep 2023",
-          "description": "Conception, réalisation et hébergement d'un site web e-commerce de vente de matériel médical.",
-          "skills": "Compétences : Symfony, HTML, CSS, Bootstrap, MySQL"
-        },
+      "stage1": {
+  "title": "Stage Développeur Full Stack",
+  "company": "Projet Fawah – Parfumerie en ligne",
+  "date": "Juil 2023 - Sep 2023",
+  "description": "Développement d’un site e-commerce de parfumerie.",
+  "skills": "Compétences : Symfony, HTML, CSS, Bootstrap, MySQL"
+},
         "stage2": {
           "title": "Stage Développeur Full Stack & Designer",
           "company": "MEFTAHI informatique",
@@ -254,14 +253,14 @@
         "stage3": {
           "title": "Designer & développeur",
           "company": "Établissement régional de Tunis",
-          "date": "Freelance · Mar 2021 - Jun 2021 · 4 mois",
-          "description": "Conception et réalisation d'une interface (tableau de bord permettant de suivre l'évolution d'indicateurs : eau, gaz et électricité) développement durable.",
+          "date": "Freelance · Mission · 6 mois",
+          "description": "Conception et développement d’un site web de suivi énergétique multi-sites en PHP / MySQL.",
           "skills": "Compétences : Full-Stack Development, PHP, Design Ux / Ui, MySQL, CSS, HTML5, Bootstrap"
         },
         "stage4":{
           "title": "Stage Développeur Full Stack & Designer",
           "company": "Meftahi informatique",
-          "date": "Fév 2021 - Mai 2021",
+          "date": "Jan 2021 - Jun 2021",
           "description": "Refonte et réalisation d'une plateforme e-commerce joaillier \"CHICHKHANE\".",
           "skills": "Compétences : PHP, HTML, CSS, Bootstrap, MySQL, Adobe XD, Photoshop"
         }
