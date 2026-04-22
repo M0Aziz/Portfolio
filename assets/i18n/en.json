@@ -33,15 +33,15 @@
         "exp1_description": "Designed and developed a social networking platform for event management. Implemented a scalable microservices architecture (Spring Boot & MERN) and automated deployments using DevOps pipelines (Docker, Jenkins).",
         "exp1_skills": "Skills: Microservices, Spring Boot, MERN Stack, Docker, Jenkins, CI/CD",
         
-        "exp2_title": "Freelance Developer",
-        "exp2_company": "Independent Projects · 2021 - 2025",
-        "exp2_description": "Developed custom web solutions including interactive educational platforms, UX/UI redesign for e-commerce applications, and dynamic business tools to automate operational workflows.",
-        "exp2_skills": "Skills: Full Stack Development, UX/UI, JavaScript, PHP, MySQL, Bootstrap, Angular, Symfony, Laravel, React",
-        
-        "exp3_title": "DevOps Engineer",
-        "exp3_company": "DevOps Project – ESPRIT · 2023",
-        "exp3_description": "Designed and implemented a complete CI/CD pipeline, automating builds, testing, and deployments while monitoring system performance with modern DevOps tools.",
-        "exp3_skills": "Skills: CI/CD, Jenkins, Docker, Nexus, SonarQube, Prometheus, Grafana",
+        "exp2_title": "Full Stack Developer / Freelance & DevOps",
+"exp2_company": "Independent Projects · 2021 - 2025",
+"exp2_description": "Development of custom web solutions including interactive educational platforms, UX/UI redesign of e-commerce applications, and business tools. Implementation of CI/CD pipelines and deployment automation across multiple projects, with a strong focus on performance and software quality.",
+"exp2_skills": "Skills: Full Stack Development, UX/UI, JavaScript, PHP, MySQL, Bootstrap, Angular, Symfony, Laravel, React, CI/CD, Docker, Jenkins",
+
+"exp3_title": "Full Stack PHP/Symfony Developer",
+"exp3_company": "Gemi · 08/2024 - 03/2026",
+"exp3_description": "Development of a complete e-commerce platform using Symfony 5.4 in an Agile environment. Designed an MVC architecture and implemented core business features (product catalog, cart, order management, back-office, user management). Improved application performance and deployed the system using Docker and Jenkins CI/CD pipelines for automated builds and deployments.",
+"exp3_skills": "Skills: Symfony, PHP, Doctrine ORM, Twig, MySQL, JavaScript, Bootstrap, Docker, Jenkins, CI/CD, Agile/Scrum",
       "education": "Education",
       "esprit": "Private Higher School of Engineering and Technologies - ESPRIT",
       "engineering_degree": "Engineer's degree, Computer Science",
@@ -159,7 +159,7 @@
       "professional": "Professional",
       "technician": {
         "title": "Computer Technician",
-        "date": "Feb 2015 - Present",
+        "date": "Feb 2015 - Aug 2019",
         "location": "Bellevue, Tunis",
         "description": "PC repair, network cabling, sound manipulation, image editing, video editing, inventory management, and annual report creation.",
         "skills": "Skills : Maintenance and repair, IT, Microsoft Office"
@@ -237,14 +237,13 @@
   "experiences_internships": {
     "title": "Experiences",
     "subtitle": "Internships",
-    "stage1": 
-      {
-        "title": "Full Stack Developer Internship",
-        "company": "General Medical and Industrial Equipment Company GEMI",
-        "date": "Jul 2023 - Sep 2023",
-        "description": "Design, implementation, and hosting of an e-commerce website for the sale of medical equipment.",
-        "skills": "Skills: Symfony, HTML, CSS, Bootstrap, MySQL"
-      },
+    "stage1": {
+  "title": "Full Stack Developer Internship",
+  "company": "Fawah Perfume Project",
+  "date": "Jul 2023 - Sep 2023",
+  "description": "Design and development of an e-commerce website for a perfume brand.",
+  "skills": "Skills: Symfony, HTML, CSS, Bootstrap, MySQL"
+},
       "stage2":{
         "title": "Full Stack Developer & Designer Internship",
         "company": "MEFTAHI informatique",
@@ -255,14 +254,14 @@
       "stage3":{
         "title": "Designer & Developer",
         "company": "Regional Establishment of Tunis",
-        "date": "Freelance · Mar 2021 - Jun 2021 · 4 months",
+        "date": "Freelance · Project · 6 months",
         "description": "Design and implementation of a dashboard interface to track the evolution of sustainable development indicators: water, gas, and electricity.",
         "skills": "Skills: Full-Stack Development, PHP, UX/UI Design, MySQL, CSS, HTML5, Bootstrap"
       },
       "stage4":{
         "title": "Full Stack Developer & Designer Internship",
         "company": "Meftahi informatique",
-        "date": "Feb 2021 - May 2021",
+        "date": "Jan 2021 - Jul 2021",
         "description": "Redesign and implementation of an e-commerce platform for jewelers \"CHICHKHANE\".",
         "skills": "Skills: PHP, HTML, CSS, Bootstrap, MySQL, Adobe XD, Photoshop"
       }
